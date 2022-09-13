@@ -1,3 +1,5 @@
+Gaming Single Page App in plain Javascript
+
 **Table of content**
 - [Introduction](#introduction)
 - [Organisation](#organisation)
